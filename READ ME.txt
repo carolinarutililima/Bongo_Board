@@ -1,0 +1,6 @@
+Hey, 
+
+
+To run this project, you can access the env1 or env2 and run the desired algorithm you want.
+
+In env1, there are 2 different algorithms for the environment, and in env2, there are 4.
